@@ -1,3 +1,3 @@
-# FreeCodeCamp
+# Portfolio Project
 
-This respository contains all the coding challenges i engage in at free code camp
+This respository contains all the coding files for my Portfolio Project at ALX
